@@ -1,0 +1,9 @@
+enqueue 1.0
+enqueue 2.0 3.0
+peek
+enqueue 4.0 5.0 6.0
+peek
+size
+dequeue 1
+dequeue 2
+size

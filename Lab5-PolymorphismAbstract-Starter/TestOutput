@@ -1,0 +1,31 @@
+***Printing Current Shapes***
+This Circle has a radius of 5.70
+This Rectangle is 7.10 x 3.70
+This Triangle is 4.60 x 9.10
+
+***Printing Current Shapes***
+This Circle has a radius of 5.70
+This Rectangle is 7.10 x 3.70
+This Triangle is 4.60 x 9.10
+This Circle has a radius of 5.70
+This Rectangle is 7.10 x 3.70
+This Triangle is 4.60 x 9.10
+
+***Printing Circles***
+This Circle has a radius of 5.70
+This Circle has a radius of 5.70
+
+***Printing Rectangles***
+This Rectangle is 7.10 x 3.70
+This Rectangle is 7.10 x 3.70
+
+***Printing Triangles***
+This Triangle is 4.60 x 9.10
+This Triangle is 4.60 x 9.10
+
+***Attempt to add too many Shapes***
+New Circle not added!
+New Rectangle not added!
+New Triangle not added!
+
+Sum of areas of Shapes: 298.54

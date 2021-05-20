@@ -1,0 +1,26 @@
+Soft Kitty (aka Warm Kitty)
+Big Bang Theory (but originally Edith Newlin)
+TEMPO 1
+G5 0.25
+E5 0.125
+E5 0.125
+F5 0.25
+D5 0.125
+D5 0.125
+C5 0.125
+D5 0.125
+E5 0.125
+F5 0.125
+G5 0.25
+rest 0.25
+G5 0.125
+E5 0.125
+E5 0.125
+E5 0.125
+F5 0.125
+D5 0.125
+D5 0.125
+D5 0.125
+C5 0.25
+D5 0.25
+C5 0.25
